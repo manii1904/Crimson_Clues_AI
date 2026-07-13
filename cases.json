@@ -1,0 +1,492 @@
+[
+  {
+    "case_number": "CASE-001",
+    "victim": "Emma Carter",
+    "location": "Blackwood Mansion",
+    "time": "11:45 PM",
+    "weather": "Heavy Rain",
+    "cause_of_death": "Knife wound",
+    "mission": "Find the killer before sunrise.",
+    "suspects": [
+      {
+        "name": "James",
+        "age": "42",
+        "occupation": "Manager",
+        "personality": "Calm",
+        "alibi": "Claims to be elsewhere."
+      },
+      {
+        "name": "Alex",
+        "age": "31",
+        "occupation": "Chef",
+        "personality": "Friendly",
+        "alibi": "Cooking dinner."
+      },
+      {
+        "name": "Sarah",
+        "age": "28",
+        "occupation": "Lawyer",
+        "personality": "Confident",
+        "alibi": "On a phone call."
+      },
+      {
+        "name": "Michael",
+        "age": "36",
+        "occupation": "Doctor",
+        "personality": "Nervous",
+        "alibi": "Checking supplies."
+      }
+    ],
+    "killer": "James",
+    "weapon": "Kitchen Knife",
+    "motive": "Inheritance",
+    "crime_scene": "Crime scene at Blackwood Mansion.",
+    "evidence": [
+      "Footprints",
+      "Broken glass",
+      "Fingerprint",
+      "Mysterious note"
+    ]
+  },
+  {
+    "case_number": "CASE-002",
+    "victim": "Ryan Smith",
+    "location": "Midnight Express",
+    "time": "1:10 AM",
+    "weather": "Foggy",
+    "cause_of_death": "Poisoning",
+    "mission": "Identify the murderer.",
+    "suspects": [
+      {
+        "name": "Sophia",
+        "age": "42",
+        "occupation": "Manager",
+        "personality": "Calm",
+        "alibi": "Claims to be elsewhere."
+      },
+      {
+        "name": "Alex",
+        "age": "31",
+        "occupation": "Chef",
+        "personality": "Friendly",
+        "alibi": "Cooking dinner."
+      },
+      {
+        "name": "Sarah",
+        "age": "28",
+        "occupation": "Lawyer",
+        "personality": "Confident",
+        "alibi": "On a phone call."
+      },
+      {
+        "name": "Michael",
+        "age": "36",
+        "occupation": "Doctor",
+        "personality": "Nervous",
+        "alibi": "Checking supplies."
+      }
+    ],
+    "killer": "Sophia",
+    "weapon": "Poison",
+    "motive": "Revenge",
+    "crime_scene": "Crime scene at Midnight Express.",
+    "evidence": [
+      "Footprints",
+      "Broken glass",
+      "Fingerprint",
+      "Mysterious note"
+    ]
+  },
+  {
+    "case_number": "CASE-003",
+    "victim": "Laura Green",
+    "location": "Grand Royal Hotel",
+    "time": "9:30 PM",
+    "weather": "Storm",
+    "cause_of_death": "Gunshot",
+    "mission": "Catch the killer.",
+    "suspects": [
+      {
+        "name": "Daniel",
+        "age": "42",
+        "occupation": "Manager",
+        "personality": "Calm",
+        "alibi": "Claims to be elsewhere."
+      },
+      {
+        "name": "Alex",
+        "age": "31",
+        "occupation": "Chef",
+        "personality": "Friendly",
+        "alibi": "Cooking dinner."
+      },
+      {
+        "name": "Sarah",
+        "age": "28",
+        "occupation": "Lawyer",
+        "personality": "Confident",
+        "alibi": "On a phone call."
+      },
+      {
+        "name": "Michael",
+        "age": "36",
+        "occupation": "Doctor",
+        "personality": "Nervous",
+        "alibi": "Checking supplies."
+      }
+    ],
+    "killer": "Daniel",
+    "weapon": "Pistol",
+    "motive": "Blackmail",
+    "crime_scene": "Crime scene at Grand Royal Hotel.",
+    "evidence": [
+      "Footprints",
+      "Broken glass",
+      "Fingerprint",
+      "Mysterious note"
+    ]
+  },
+  {
+    "case_number": "CASE-004",
+    "victim": "Noah White",
+    "location": "Ocean Queen Cruise",
+    "time": "10:20 PM",
+    "weather": "Windy",
+    "cause_of_death": "Drowning",
+    "mission": "Solve the mystery.",
+    "suspects": [
+      {
+        "name": "Olivia",
+        "age": "42",
+        "occupation": "Manager",
+        "personality": "Calm",
+        "alibi": "Claims to be elsewhere."
+      },
+      {
+        "name": "Alex",
+        "age": "31",
+        "occupation": "Chef",
+        "personality": "Friendly",
+        "alibi": "Cooking dinner."
+      },
+      {
+        "name": "Sarah",
+        "age": "28",
+        "occupation": "Lawyer",
+        "personality": "Confident",
+        "alibi": "On a phone call."
+      },
+      {
+        "name": "Michael",
+        "age": "36",
+        "occupation": "Doctor",
+        "personality": "Nervous",
+        "alibi": "Checking supplies."
+      }
+    ],
+    "killer": "Olivia",
+    "weapon": "Life Jacket Strap",
+    "motive": "Insurance",
+    "crime_scene": "Crime scene at Ocean Queen Cruise.",
+    "evidence": [
+      "Footprints",
+      "Broken glass",
+      "Fingerprint",
+      "Mysterious note"
+    ]
+  },
+  {
+    "case_number": "CASE-005",
+    "victim": "Grace Hall",
+    "location": "Secret Research Lab",
+    "time": "8:00 PM",
+    "weather": "Clear",
+    "cause_of_death": "Explosion",
+    "mission": "Find the saboteur.",
+    "suspects": [
+      {
+        "name": "Ethan",
+        "age": "42",
+        "occupation": "Manager",
+        "personality": "Calm",
+        "alibi": "Claims to be elsewhere."
+      },
+      {
+        "name": "Alex",
+        "age": "31",
+        "occupation": "Chef",
+        "personality": "Friendly",
+        "alibi": "Cooking dinner."
+      },
+      {
+        "name": "Sarah",
+        "age": "28",
+        "occupation": "Lawyer",
+        "personality": "Confident",
+        "alibi": "On a phone call."
+      },
+      {
+        "name": "Michael",
+        "age": "36",
+        "occupation": "Doctor",
+        "personality": "Nervous",
+        "alibi": "Checking supplies."
+      }
+    ],
+    "killer": "Ethan",
+    "weapon": "Explosive",
+    "motive": "Corporate Espionage",
+    "crime_scene": "Crime scene at Secret Research Lab.",
+    "evidence": [
+      "Footprints",
+      "Broken glass",
+      "Fingerprint",
+      "Mysterious note"
+    ]
+  },
+  {
+    "case_number": "CASE-006",
+    "victim": "Henry Clark",
+    "location": "Forest Cabin",
+    "time": "12:15 AM",
+    "weather": "Snow",
+    "cause_of_death": "Axe wound",
+    "mission": "Solve before dawn.",
+    "suspects": [
+      {
+        "name": "Mia",
+        "age": "42",
+        "occupation": "Manager",
+        "personality": "Calm",
+        "alibi": "Claims to be elsewhere."
+      },
+      {
+        "name": "Alex",
+        "age": "31",
+        "occupation": "Chef",
+        "personality": "Friendly",
+        "alibi": "Cooking dinner."
+      },
+      {
+        "name": "Sarah",
+        "age": "28",
+        "occupation": "Lawyer",
+        "personality": "Confident",
+        "alibi": "On a phone call."
+      },
+      {
+        "name": "Michael",
+        "age": "36",
+        "occupation": "Doctor",
+        "personality": "Nervous",
+        "alibi": "Checking supplies."
+      }
+    ],
+    "killer": "Mia",
+    "weapon": "Axe",
+    "motive": "Jealousy",
+    "crime_scene": "Crime scene at Forest Cabin.",
+    "evidence": [
+      "Footprints",
+      "Broken glass",
+      "Fingerprint",
+      "Mysterious note"
+    ]
+  },
+  {
+    "case_number": "CASE-007",
+    "victim": "Sophia Young",
+    "location": "St. Mary's Hospital",
+    "time": "7:40 PM",
+    "weather": "Cloudy",
+    "cause_of_death": "Overdose",
+    "mission": "Uncover the truth.",
+    "suspects": [
+      {
+        "name": "Lucas",
+        "age": "42",
+        "occupation": "Manager",
+        "personality": "Calm",
+        "alibi": "Claims to be elsewhere."
+      },
+      {
+        "name": "Alex",
+        "age": "31",
+        "occupation": "Chef",
+        "personality": "Friendly",
+        "alibi": "Cooking dinner."
+      },
+      {
+        "name": "Sarah",
+        "age": "28",
+        "occupation": "Lawyer",
+        "personality": "Confident",
+        "alibi": "On a phone call."
+      },
+      {
+        "name": "Michael",
+        "age": "36",
+        "occupation": "Doctor",
+        "personality": "Nervous",
+        "alibi": "Checking supplies."
+      }
+    ],
+    "killer": "Lucas",
+    "weapon": "Injection",
+    "motive": "Cover-up",
+    "crime_scene": "Crime scene at St. Mary's Hospital.",
+    "evidence": [
+      "Footprints",
+      "Broken glass",
+      "Fingerprint",
+      "Mysterious note"
+    ]
+  },
+  {
+    "case_number": "CASE-008",
+    "victim": "Jack Lewis",
+    "location": "National Museum",
+    "time": "6:55 PM",
+    "weather": "Sunny",
+    "cause_of_death": "Blunt trauma",
+    "mission": "Find the culprit.",
+    "suspects": [
+      {
+        "name": "Ava",
+        "age": "42",
+        "occupation": "Manager",
+        "personality": "Calm",
+        "alibi": "Claims to be elsewhere."
+      },
+      {
+        "name": "Alex",
+        "age": "31",
+        "occupation": "Chef",
+        "personality": "Friendly",
+        "alibi": "Cooking dinner."
+      },
+      {
+        "name": "Sarah",
+        "age": "28",
+        "occupation": "Lawyer",
+        "personality": "Confident",
+        "alibi": "On a phone call."
+      },
+      {
+        "name": "Michael",
+        "age": "36",
+        "occupation": "Doctor",
+        "personality": "Nervous",
+        "alibi": "Checking supplies."
+      }
+    ],
+    "killer": "Ava",
+    "weapon": "Statue",
+    "motive": "Artifact Theft",
+    "crime_scene": "Crime scene at National Museum.",
+    "evidence": [
+      "Footprints",
+      "Broken glass",
+      "Fingerprint",
+      "Mysterious note"
+    ]
+  },
+  {
+    "case_number": "CASE-009",
+    "victim": "Emily Walker",
+    "location": "Orion Tech Office",
+    "time": "11:00 PM",
+    "weather": "Clear",
+    "cause_of_death": "Electrocution",
+    "mission": "Reveal the killer.",
+    "suspects": [
+      {
+        "name": "Mason",
+        "age": "42",
+        "occupation": "Manager",
+        "personality": "Calm",
+        "alibi": "Claims to be elsewhere."
+      },
+      {
+        "name": "Alex",
+        "age": "31",
+        "occupation": "Chef",
+        "personality": "Friendly",
+        "alibi": "Cooking dinner."
+      },
+      {
+        "name": "Sarah",
+        "age": "28",
+        "occupation": "Lawyer",
+        "personality": "Confident",
+        "alibi": "On a phone call."
+      },
+      {
+        "name": "Michael",
+        "age": "36",
+        "occupation": "Doctor",
+        "personality": "Nervous",
+        "alibi": "Checking supplies."
+      }
+    ],
+    "killer": "Mason",
+    "weapon": "Power Cable",
+    "motive": "Promotion",
+    "crime_scene": "Crime scene at Orion Tech Office.",
+    "evidence": [
+      "Footprints",
+      "Broken glass",
+      "Fingerprint",
+      "Mysterious note"
+    ]
+  },
+  {
+    "case_number": "CASE-010",
+    "victim": "David King",
+    "location": "Raven Island Resort",
+    "time": "9:50 PM",
+    "weather": "Thunderstorm",
+    "cause_of_death": "Stabbing",
+    "mission": "Catch the murderer.",
+    "suspects": [
+      {
+        "name": "Chloe",
+        "age": "42",
+        "occupation": "Manager",
+        "personality": "Calm",
+        "alibi": "Claims to be elsewhere."
+      },
+      {
+        "name": "Alex",
+        "age": "31",
+        "occupation": "Chef",
+        "personality": "Friendly",
+        "alibi": "Cooking dinner."
+      },
+      {
+        "name": "Sarah",
+        "age": "28",
+        "occupation": "Lawyer",
+        "personality": "Confident",
+        "alibi": "On a phone call."
+      },
+      {
+        "name": "Michael",
+        "age": "36",
+        "occupation": "Doctor",
+        "personality": "Nervous",
+        "alibi": "Checking supplies."
+      }
+    ],
+    "killer": "Chloe",
+    "weapon": "Dagger",
+    "motive": "Hidden Treasure",
+    "crime_scene": "Crime scene at Raven Island Resort.",
+    "evidence": [
+      "Footprints",
+      "Broken glass",
+      "Fingerprint",
+      "Mysterious note"
+    ]
+  }
+]
